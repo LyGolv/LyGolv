@@ -21,3 +21,5 @@ Here are some ideas to get you started:
 
  | [![LyGolv's GitHub stats](https://github-readme-stats.vercel.app/api?username=lygolv&show_icons=true&bg_color=eff)](https://github.com/anuraghazra/github-readme-stats) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lygolv&layout=compact&bg_color=eff) |
  | --- | --- |
+
+ ![Profile view](https://komarev.com/ghpvc/?username=LyGolv&style=plastic&color=green)
